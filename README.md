@@ -1,2 +1,2 @@
-# learn-c-the-hard-way
-Repo to demonstrate the book's exercises
+# Learn C the Hard Way
+This repository inlcudes C codes that were used to follow and study the book's exercises.
