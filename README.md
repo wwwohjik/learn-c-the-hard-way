@@ -20,3 +20,5 @@ Ex4: GDB cheat sheet
   - **attach	pid**	Attach	to	a	running	process	so	you	can	debug	it.
   - **detach**	Detach	from	the	process.
   - **list**	List	out	the	next	ten	source	lines.	Add	a	-	to	list	the	previous	ten	lines.
+
+Ex5: C Operators
