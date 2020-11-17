@@ -22,3 +22,4 @@ Ex4: GDB cheat sheet
   - **list**	List	out	the	next	ten	source	lines.	Add	a	-	to	list	the	previous	ten	lines.
 
 Ex5: C Operators
+<center><img src="./images/ex05.png" alt="C Operators" width="1275px"></center>
