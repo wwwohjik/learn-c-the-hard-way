@@ -1,10 +1,10 @@
 # Learn C the Hard Way
 This repository inlcudes C codes that were used to follow and study the book's exercises.
 
-Ex1: Simple **printf** function to print a statement to screen.<br>
-Ex2: Use of **Makefile**.<br>
-Ex3: **printf** with multiple variables and formatting.<br>
-Ex4: GDB cheat sheet
+<ins>Ex1: Simple **printf** function to print a statement to screen.</ins><br>
+<ins>Ex2: Use of **Makefile**.</ins><br>
+<ins>Ex3: **printf** with multiple variables and formatting.</ins><br>
+<ins>Ex4: GDB cheat sheet</ins>
   - **run	[args]**	Start	your	program	with	[args].
   - **break	[file:]function**	Set	a	break	point	at	[file:]function.	You	can	also	use	**b**.
   - **backtrace**	Dump	a	backtrace	of	the	current	calling	stack.	Shorthand	is	**bt**.
@@ -21,9 +21,9 @@ Ex4: GDB cheat sheet
   - **detach**	Detach	from	the	process.
   - **list**	List	out	the	next	ten	source	lines.	Add	a	-	to	list	the	previous	ten	lines.
 
-Ex5: C Operators
+<ins>Ex5: C Operators</ins>
 <center><img src="./images/ex05.png" alt="C Operators" width="1275px"></center>
-Ex6: Basic Syntax
+<ins>Ex6: Basic Syntax</ins>
 
 **if-statement**
 ```C
@@ -104,5 +104,5 @@ union NAME {
     ELEMENTS;
 } [VARIABLE_NAME];
 ```
-Ex07: **Variables** and **types**<br>
-Ex08: **If-Else if-Else**<br>
+<ins>Ex07: **Variables** and **types**</ins><br>
+<ins>Ex08: **If-Else if-Else**</ins><br>
