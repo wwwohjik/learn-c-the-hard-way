@@ -104,3 +104,5 @@ union NAME {
     ELEMENTS;
 } [VARIABLE_NAME];
 ```
+Ex07: **Variables** and **types**<br>
+Ex08: **If-Else if-Else**<br>
