@@ -23,3 +23,84 @@ Ex4: GDB cheat sheet
 
 Ex5: C Operators
 <center><img src="./images/ex05.png" alt="C Operators" width="1275px"></center>
+Ex6: Basic Syntax
+
+**if-statement**
+```C
+if(TEST) {
+    CODE;
+} else if(TEST) {
+    CODE;
+} else {
+    CODE;
+}
+```
+**switch-statement**
+```C
+switch (OPERAND) {
+    case CONSTANT:
+        CODE;
+        break;
+    default:
+        CODE;
+}
+```
+**while-loop**
+```C
+while(TEST) {
+    if(OTHER_TEST) {
+        continue;
+    }
+    else if (OTHER_TEST) {
+        break;
+    }
+    CODE;
+}
+```
+**do-while-loop**
+```C
+do {
+    CODE;
+} while(TEST);
+```
+**for-loop**
+```C
+for(INIT; TEST; POST) {
+    CODE;
+}
+```
+**enum (creates a set of integer constants)**
+```C
+enum { CONST1, CONST2, CONST3 } NAME;
+```
+**goto (jump to a label / useful for error detection)**
+```C
+if(ERROR_TEST) {
+    goto fail;
+}
+fail:
+    CODE;
+```
+**fuction**
+```C
+TYPE NAME(ARG1, ARG2, ..) {
+    CODE;
+    return VALUE;
+}
+```
+**typedef (defines a new type)**
+```C
+typedef DEFINITION IDENTIFIER; //typedef unsigned char byte;
+```
+**struct (packaging of many base data types into a single concept)**
+```C
+struct NAME {
+    ELEMENTS;
+} [VARIABLE_NAME];
+```
+**union (similar to struct, but the elements will overlap in memory)**
+```C
+union NAME {
+    ELEMENTS;
+} [VARIABLE_NAME];
+```
