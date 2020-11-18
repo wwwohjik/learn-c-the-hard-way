@@ -111,4 +111,7 @@ union NAME {
   - Ex10ec: Extra credit. Convert uppercase letters to lowercase. 
 
 <ins>Ex11: **Arrays** and **Strings**</ins><br>
-<ins>Ex12: **Sizes** and **Arrays**</ins><<br>
+<ins>Ex12: **Sizes** and **Arrays**</ins><br>
+<ins>Ex13: **For-Loops** and **Arrays** of Strings</ins><br>
+<ins>Ex14: **Functions**</ins><br>
+<ins>Ex15: **Pointers**</ins><br>
