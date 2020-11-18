@@ -109,3 +109,6 @@ union NAME {
 <ins>Ex09: **While loop**</ins><br>
 <ins>Ex10: **Switch Statement**</ins>
   - Ex10ec: Extra credit. Convert uppercase letters to lowercase. 
+
+<ins>Ex11: **Arrays** and **Strings**</ins><br>
+<ins>Ex12: **Sizes** and **Arrays**</ins><<br>
