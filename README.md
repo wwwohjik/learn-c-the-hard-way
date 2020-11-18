@@ -106,3 +106,4 @@ union NAME {
 ```
 <ins>Ex07: **Variables** and **types**</ins><br>
 <ins>Ex08: **If-Else if-Else**</ins><br>
+<ins>Ex09: **While loop**</ins><br>
