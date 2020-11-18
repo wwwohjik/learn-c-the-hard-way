@@ -107,5 +107,5 @@ union NAME {
 <ins>Ex07: **Variables** and **types**</ins><br>
 <ins>Ex08: **If-Else if-Else**</ins><br>
 <ins>Ex09: **While loop**</ins><br>
-<ins>Ex10: **Switch Statement**</ins><br>
-	- Ex10ec: Extra credit. Convert uppercase letters to lowercase. 
+<ins>Ex10: **Switch Statement**</ins>
+  - Ex10ec: Extra credit. Convert uppercase letters to lowercase. 
