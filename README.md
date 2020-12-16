@@ -117,3 +117,4 @@ union NAME {
 <ins>Ex15: **Pointers**</ins><br>
 <ins>Ex16: **Structs** and **Pointers** (like an Object in other language)</ins><br>
 <ins>Ex17: Heap and Stack Memory Allocation</ins><br>
+<ins>Ex18: Pointers to Functions</ins><br>
